@@ -1,0 +1,5 @@
+2025-08-16 14:13:09,990 - root - INFO - Loaded glossary with 279 terms
+2025-08-16 14:13:09,996 - root - INFO - ✅ Google Translate configured successfully
+2025-08-16 14:13:09,997 - root - INFO - Enhanced database initialized
+2025-08-16 14:13:11,065 - root - INFO - 🚀 Starting enhanced translation of 115085 files
+2025-08-16 14:13:11,065 - root - INFO - 📋 Available providers: google, enhanced_offline

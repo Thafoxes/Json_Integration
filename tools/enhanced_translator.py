@@ -584,6 +584,7 @@ class EnhancedGenshinTranslator:
                                f"Time: {elapsed:.1f}s")
                 
                 # Auto-commit progress
+                progress = (i / total_files) * 100
                 commit_interval = self.config.get('processing', {}).get('commit_interval', 0.1)
                 if progress > 0 and progress % (commit_interval * 100) < 0.1:
                     self.commit_progress(progress)
