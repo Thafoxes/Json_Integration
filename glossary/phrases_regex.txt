@@ -1,18 +1,18 @@
-[Untranslated: [Untranslated: Sumeru\+Desert\(非3\.4\)锚点和神像\(无隐藏\)]]
-[Untranslated: [Untranslated: InazumaStatues of Seven\ 不含渊\ 下\ 宫]]
-[Untranslated: 《漂泊的异乡人》Achievement\ "]
+[Untranslated: [Untranslated: Sumeru\+Desert\(非3\.4\)Teleport waypoint和神像\(无隐藏\)]]
+[Untranslated: [Untranslated: [Untranslated: InazumaStatues of Seven\ 不含渊\ 下\ 宫]]]
+[Untranslated: [Untranslated: 《漂泊的异乡人》Achievement\ "]]
 In the Hall of the Sea King - Chapter 1
-[Untranslated: [Untranslated: 巡刺滴Hydroculi\(4\.1\)]]
-[Untranslated: [Untranslated: 帕蒂沙兰\ \(帕莎拉蒂\)]]
-[Untranslated: [Untranslated: 珊瑚珍珠\ \(珊瑚真珠\)]]
+[Untranslated: [Untranslated: [Untranslated: 巡刺滴Hydroculi\(4\.1\)]]]
+[Untranslated: [Untranslated: [Untranslated: 帕蒂沙兰\ \(帕莎拉蒂\)]]]
+[Untranslated: [Untranslated: [Untranslated: 珊瑚珍珠\ \(珊瑚真珠\)]]]
 Prisoner In Shackles (chapter 2)
 If you cant enter the cave, fly into it
-[Untranslated: 所有Treasure chest\(包含Battle\)]
+[Untranslated: [Untranslated: 所有Treasure chest\(包含Battle\)]]
 Towards the Lighthouse, or Far Away
 The Story Begins in a Forest Without Rain
 The Chasm Underground Mine
-[Untranslated: [Untranslated: 火焰花\ \(烈焰花\)]]
-[Untranslated: [Untranslated: Jasmine Flower\ \(茉洁草\)]]
+[Untranslated: [Untranslated: Pyro焰花\ \(烈焰花\)]]
+[Untranslated: [Untranslated: Jasmine Flower\ \(茉洁Dendro\)]]
 Mondstadt\&LiyueStatues of Seven
 The Answer of the Lotus Leaves and Forest
 talk to the blue octopus
@@ -20,10 +20,10 @@ Blank Score tools
 Go Tell the Citizens of the Capital... achivement
 Ancient Autoharmonic Music Box
 Chasm Underground Mine Waypoint
-[Untranslated: [Untranslated: Hydroculi（需Puzzle\)]]
-[Untranslated: [Untranslated: 蓬蓬果\ 风史莱姆]]
+[Untranslated: [Untranslated: [Untranslated: Hydroculi（需Puzzle\)]]]
+[Untranslated: [Untranslated: 蓬蓬果\ Anemo史莱姆]]
 Midlander Claymore Billet
-[Untranslated: [Untranslated: 诡镇之梦\-序曲]]
+[Untranslated: [Untranslated: [Untranslated: 诡镇之梦\-序曲]]]
 The Phaethons' Syrtos
 Erebos' Secret
 Sumeru Desert Soil Ore
@@ -61,7 +61,7 @@ New Consecrated Beast
 Cecilia
 Rukkhashava Mushrooms
 Death Domain Dendroculi
-[Untranslated: [Untranslated: 锚点\+神像]]
+[Untranslated: [Untranslated: Teleport waypoint\+神像]]
 Snow Mountain Great Ice Mine
 Another version
 Mora Chests in Fontaine
