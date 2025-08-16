@@ -1558,3 +1558,4 @@
 2025-08-16 13:47:45,385 - __main__ - INFO - Processed 115000 files, 65 changed
 2025-08-16 13:47:45,395 - __main__ - INFO - Processed 115000 files (99.90% complete)
 2025-08-16 13:47:46,359 - __main__ - INFO - Processed 115100 files, 65 changed
+2025-08-16 13:47:55,370 - __main__ - INFO - Progress committed: 100.0%
