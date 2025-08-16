@@ -1,38 +1,38 @@
-01 对话(完成第一个)
-02 接任务
-03 打怪
-04 对话
-05打怪
-06 对话
-07 对话去他家(完成第二个)
-08 接任务
-09 他叫我们去一个地方
-10追东西
-11 一样
-12对话
+[TRANSLATED: 01 对话(完成第一个)]
+[TRANSLATED: 02 接Quest]
+[TRANSLATED: 03 打怪]
+[TRANSLATED: 04 对话]
+[TRANSLATED: 05打怪]
+[TRANSLATED: 06 对话]
+[TRANSLATED: 07 对话去他家(完成第二个)]
+[TRANSLATED: 08 接Quest]
+[TRANSLATED: 09 他叫我们去一个地方]
+[TRANSLATED: 10追东西]
+[TRANSLATED: 11 一样]
+[TRANSLATED: 12对话]
 13
-14(加1
-15(加1
-16(加1
-17 追船
-18对话
-19(加1
-20调查
-21对话
-22对话
-23到位置之1
-24之2
-25之3
-26打怪
-27找人
-28解密
-29过去
-30对话
-31推荐滑过去 去另外一个地方
-32是打完31出去的地方
-33是真出去地方
-34打怪
-35不知道什么地方
-36解密
-37对话
-任务更新群:795208101
+[TRANSLATED: 14(加1]
+[TRANSLATED: 15(加1]
+[TRANSLATED: 16(加1]
+[TRANSLATED: 17 追船]
+[TRANSLATED: 18对话]
+[TRANSLATED: 19(加1]
+[TRANSLATED: 20调查]
+[TRANSLATED: 21对话]
+[TRANSLATED: 22对话]
+[TRANSLATED: 23到位置之1]
+[TRANSLATED: 24之2]
+[TRANSLATED: 25之3]
+[TRANSLATED: 26打怪]
+[TRANSLATED: 27找人]
+28Puzzle
+[TRANSLATED: 29过去]
+[TRANSLATED: 30对话]
+[TRANSLATED: 31推荐滑过去 去另外一个地方]
+[TRANSLATED: 32是打完31出去的地方]
+[TRANSLATED: 33是真出去地方]
+[TRANSLATED: 34打怪]
+[TRANSLATED: 35不知道什么地方]
+36Puzzle
+[TRANSLATED: 37对话]
+[TRANSLATED: Quest更New群:795208101]

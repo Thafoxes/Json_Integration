@@ -1,15 +1,15 @@
-MC01 打断炸药桶
-MC02 打掉树苗（一定要打掉），正向旋转
-MC03 进门
-MC04 再进门
-MC05 副本宝箱1
-MC06 拉杆，拉！
-MC07 正向旋转！
-MC08 进门两次！（第二个门忘录了），激活剧情
-MC09 打掉蜘蛛网，逆向2次！
-MC10 进门
-MC11 再进门
-MC12 逆向1次！
-MC13 进门
-MC14 进门 捡宝箱 结束 
+[TRANSLATED: MC01 打断Explosives]
+[TRANSLATED: MC02 打掉树苗（一定要打掉），正向旋转]
+[TRANSLATED: MC03 进门]
+[TRANSLATED: MC04 再进门]
+[TRANSLATED: MC05 副本宝箱1]
+[TRANSLATED: MC06 拉杆，拉！]
+[TRANSLATED: MC07 正向旋转！]
+[TRANSLATED: MC08 进门两次！（第二个门忘录了），激活剧情]
+[TRANSLATED: MC09 打掉蜘蛛网，逆向2次！]
+[TRANSLATED: MC10 进门]
+[TRANSLATED: MC11 再进门]
+[TRANSLATED: MC12 逆向1次！]
+[TRANSLATED: MC13 进门]
+[TRANSLATED: MC14 进门 捡宝箱 结束 ]
 

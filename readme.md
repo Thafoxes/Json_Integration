@@ -10,22 +10,22 @@
 
 > Sam5440 
 > Thafoxes 
-> 持青伞  
+[TRANSLATED: > 持青伞  ]
 > DryIce  
 > AXC00  
 > GodWil  
 > Misuki  
-> 情与宇宇热恋  
-> 巡刺  
+[TRANSLATED: > 情与宇宇热恋  ]
+[TRANSLATED: > 巡刺  ]
 > Apiny  
 > Group 795208101 Members  
-> 毛子  
+[TRANSLATED: > 毛子  ]
 > cowan97  
-> 1056308869 个成员  
-> 茶亭    
-> 缘起  
+[TRANSLATED: > 1056308869 个成员  ]
+[TRANSLATED: > 茶亭    ]
+[TRANSLATED: > 缘起  ]
 > Kirito   
-> 柒酱   
-> 阿晨  qq1011075673  
+[TRANSLATED: > 柒酱   ]
+[TRANSLATED: > 阿晨  qq1011075673  ]
 
 ---
