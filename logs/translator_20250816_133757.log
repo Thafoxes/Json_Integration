@@ -307,3 +307,220 @@
 2025-08-16 13:38:14,427 - __main__ - INFO - Processed 22900 files, 0 changed
 2025-08-16 13:38:14,528 - __main__ - INFO - Processed 23000 files, 0 changed
 2025-08-16 13:38:14,529 - __main__ - INFO - Processed 23000 files (19.98% complete)
+2025-08-16 13:38:18,502 - __main__ - INFO - Progress committed: 20.0%
+2025-08-16 13:38:18,608 - __main__ - INFO - Processed 23100 files, 0 changed
+2025-08-16 13:38:18,709 - __main__ - INFO - Processed 23200 files, 0 changed
+2025-08-16 13:38:18,810 - __main__ - INFO - Processed 23300 files, 0 changed
+2025-08-16 13:38:18,913 - __main__ - INFO - Processed 23400 files, 0 changed
+2025-08-16 13:38:19,017 - __main__ - INFO - Processed 23500 files, 0 changed
+2025-08-16 13:38:19,120 - __main__ - INFO - Processed 23600 files, 0 changed
+2025-08-16 13:38:19,223 - __main__ - INFO - Processed 23700 files, 0 changed
+2025-08-16 13:38:19,328 - __main__ - INFO - Processed 23800 files, 0 changed
+2025-08-16 13:38:19,432 - __main__ - INFO - Processed 23900 files, 0 changed
+2025-08-16 13:38:19,548 - __main__ - INFO - Processed 24000 files, 0 changed
+2025-08-16 13:38:19,550 - __main__ - INFO - Processed 24000 files (20.85% complete)
+2025-08-16 13:38:19,668 - __main__ - INFO - Processed 24100 files, 0 changed
+2025-08-16 13:38:19,778 - __main__ - INFO - Processed 24200 files, 0 changed
+2025-08-16 13:38:19,887 - __main__ - INFO - Processed 24300 files, 0 changed
+2025-08-16 13:38:19,994 - __main__ - INFO - Processed 24400 files, 0 changed
+2025-08-16 13:38:20,102 - __main__ - INFO - Processed 24500 files, 0 changed
+2025-08-16 13:38:20,209 - __main__ - INFO - Processed 24600 files, 0 changed
+2025-08-16 13:38:20,318 - __main__ - INFO - Processed 24700 files, 0 changed
+2025-08-16 13:38:20,426 - __main__ - INFO - Processed 24800 files, 0 changed
+2025-08-16 13:38:20,535 - __main__ - INFO - Processed 24900 files, 0 changed
+2025-08-16 13:38:20,643 - __main__ - INFO - Processed 25000 files, 0 changed
+2025-08-16 13:38:20,645 - __main__ - INFO - Processed 25000 files (21.72% complete)
+2025-08-16 13:38:20,753 - __main__ - INFO - Processed 25100 files, 0 changed
+2025-08-16 13:38:20,862 - __main__ - INFO - Processed 25200 files, 0 changed
+2025-08-16 13:38:20,972 - __main__ - INFO - Processed 25300 files, 0 changed
+2025-08-16 13:38:21,082 - __main__ - INFO - Processed 25400 files, 0 changed
+2025-08-16 13:38:21,194 - __main__ - INFO - Processed 25500 files, 0 changed
+2025-08-16 13:38:21,304 - __main__ - INFO - Processed 25600 files, 0 changed
+2025-08-16 13:38:21,416 - __main__ - INFO - Processed 25700 files, 0 changed
+2025-08-16 13:38:21,498 - __main__ - WARNING - ⚠️ DEEPL_API_KEY not set, falling back to offline mode
+2025-08-16 13:38:21,498 - __main__ - INFO - Using simple placeholder translation (offline mode)
+2025-08-16 13:38:21,531 - __main__ - INFO - Processed 25800 files, 1 changed
+2025-08-16 13:38:21,644 - __main__ - INFO - Processed 25900 files, 1 changed
+2025-08-16 13:38:21,756 - __main__ - INFO - Processed 26000 files, 1 changed
+2025-08-16 13:38:21,757 - __main__ - INFO - Processed 26000 files (22.59% complete)
+2025-08-16 13:38:21,875 - __main__ - INFO - Processed 26100 files, 1 changed
+2025-08-16 13:38:21,990 - __main__ - INFO - Processed 26200 files, 1 changed
+2025-08-16 13:38:22,104 - __main__ - INFO - Processed 26300 files, 1 changed
+2025-08-16 13:38:22,217 - __main__ - INFO - Processed 26400 files, 1 changed
+2025-08-16 13:38:22,333 - __main__ - INFO - Processed 26500 files, 1 changed
+2025-08-16 13:38:22,448 - __main__ - INFO - Processed 26600 files, 1 changed
+2025-08-16 13:38:22,566 - __main__ - INFO - Processed 26700 files, 1 changed
+2025-08-16 13:38:22,683 - __main__ - INFO - Processed 26800 files, 1 changed
+2025-08-16 13:38:22,800 - __main__ - INFO - Processed 26900 files, 1 changed
+2025-08-16 13:38:22,918 - __main__ - INFO - Processed 27000 files, 1 changed
+2025-08-16 13:38:22,920 - __main__ - INFO - Processed 27000 files (23.46% complete)
+2025-08-16 13:38:23,038 - __main__ - INFO - Processed 27100 files, 1 changed
+2025-08-16 13:38:23,041 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补034.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,043 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补035.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,045 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补036.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,046 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补037.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,048 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补038.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,050 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补101.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,052 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补102.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,053 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补149.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,054 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补150.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,055 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补151.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,057 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补152.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,058 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补153.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,059 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补154.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,061 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补155.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,062 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补156.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,063 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补206.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,064 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补207.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,066 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补208.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,067 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补209.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,068 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补210.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,069 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/chests +Seelie +Challenge +Mora chest/补211.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,072 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/last teleport/add 208.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,073 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/last teleport/add 209.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,074 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/last teleport/add 210.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,075 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 3 zones combined/last teleport/add211.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,127 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Belleau Region/Collection/补034.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,129 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Belleau Region/Collection/补035.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,130 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Belleau Region/Collection/补036.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,131 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Belleau Region/Collection/补037.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,132 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Belleau Region/Collection/补038.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,136 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Belleau Region/Mora chests/补034.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,137 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Belleau Region/Mora chests/补035.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,138 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Belleau Region/Mora chests/补036.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,139 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Belleau Region/Mora chests/补037.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,141 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Belleau Region/Mora chests/补038.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,164 - __main__ - INFO - Processed 27200 files, 1 changed
+2025-08-16 13:38:23,287 - __main__ - INFO - Processed 27300 files, 1 changed
+2025-08-16 13:38:23,342 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Collection/补101.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,344 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Collection/补102.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,345 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Collection/补149.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,346 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Collection/补150.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,347 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Collection/补151.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,348 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Collection/补152.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,350 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Collection/补153.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,351 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Collection/补154.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,352 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Collection/补155.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,353 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Collection/补156.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,369 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Mora chests/补148.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,370 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Mora chests/补149.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,371 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Mora chests/补150.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,373 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Mora chests/补151.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,374 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Mora chests/补152.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,375 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Mora chests/补153.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,376 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Mora chests/补154.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,377 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Mora chests/补155.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,379 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Mora chests/补156.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,410 - __main__ - INFO - Processed 27400 files, 1 changed
+2025-08-16 13:38:23,463 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Puzzle/补101.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,464 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Beryl Region/Puzzle/补102.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,535 - __main__ - INFO - Processed 27500 files, 1 changed
+2025-08-16 13:38:23,655 - __main__ - INFO - Processed 27600 files, 1 changed
+2025-08-16 13:38:23,778 - __main__ - INFO - Processed 27700 files, 1 changed
+2025-08-16 13:38:23,814 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/Collection/补206.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,815 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/Collection/补207.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,816 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/Collection/补208.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,818 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/Collection/补209.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,819 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/Collection/补210.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,820 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/Collection/补211.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:23,905 - __main__ - INFO - Processed 27800 files, 1 changed
+2025-08-16 13:38:23,979 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/Open/补206.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:24,053 - __main__ - INFO - Processed 27900 files, 1 changed
+2025-08-16 13:38:24,110 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/last teleport/add 207.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:24,111 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/last teleport/add 208.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:24,113 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/last teleport/add 209.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:24,115 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/last teleport/add 210.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:24,116 - __main__ - ERROR - Error translating ./4.0 series/4.1 Liffey and Fortaine research/Latest fortaine 4.1 100% exploration/4.0 version -CN version/Court of Fontaine Quartier Narbonnais/last teleport/add 211.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 13:38:24,198 - __main__ - INFO - Processed 28000 files, 1 changed
+2025-08-16 13:38:24,200 - __main__ - INFO - Processed 28000 files (24.32% complete)
+2025-08-16 13:38:24,341 - __main__ - INFO - Processed 28100 files, 1 changed
+2025-08-16 13:38:24,481 - __main__ - INFO - Processed 28200 files, 1 changed
+2025-08-16 13:38:24,610 - __main__ - INFO - Processed 28300 files, 1 changed
+2025-08-16 13:38:24,741 - __main__ - INFO - Processed 28400 files, 1 changed
+2025-08-16 13:38:24,866 - __main__ - INFO - Processed 28500 files, 1 changed
+2025-08-16 13:38:24,998 - __main__ - INFO - Processed 28600 files, 2 changed
+2025-08-16 13:38:25,137 - __main__ - INFO - Processed 28700 files, 2 changed
+2025-08-16 13:38:25,277 - __main__ - INFO - Processed 28800 files, 2 changed
+2025-08-16 13:38:25,423 - __main__ - INFO - Processed 28900 files, 2 changed
+2025-08-16 13:38:25,562 - __main__ - INFO - Processed 29000 files, 2 changed
+2025-08-16 13:38:25,564 - __main__ - INFO - Processed 29000 files (25.19% complete)
+2025-08-16 13:38:25,711 - __main__ - INFO - Processed 29100 files, 2 changed
+2025-08-16 13:38:25,828 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/A - Teatree Slope(2)11-25/Y2.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:25,838 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/A- Teatree Slope (3)/32.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:25,860 - __main__ - INFO - Processed 29200 files, 2 changed
+2025-08-16 13:38:25,885 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/B- Yaodie Valley(1)/62.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:25,890 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/B- Yaodie Valley(2)63-78/65.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:25,893 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/B- Yaodie Valley(2)63-78/67.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:25,899 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/B- Yaodie Valley(2)63-78/72(1).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:25,901 - __main__ - ERROR - Error translating ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/B- Yaodie Valley(2)63-78/72(2).json: 'utf-8' codec can't decode byte 0xd5 in position 44: invalid continuation byte
+2025-08-16 13:38:25,911 - __main__ - ERROR - Error translating text file ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/B- Yaodie Valley(2)63-78/读我.txt: 'utf-8' codec can't decode byte 0xcf in position 45: invalid continuation byte
+2025-08-16 13:38:25,937 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/C- Qiaoying Village(2)89-98/94(1).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:25,939 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/C- Qiaoying Village(2)89-98/95.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:25,949 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/C- Qiaoying Village(3)99-115/101(2).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:26,002 - __main__ - INFO - Processed 29300 files, 2 changed
+2025-08-16 13:38:26,039 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/F- Yilong Wharf(1)151-162/161(2).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:26,066 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/G- Mt. Mingyuan(1)177-195/179(1).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:26,086 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/G- Mt. Mingyuan(1)177-195/193-195.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:26,103 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/G- Mt. Mingyuan(2)196-212/208(1).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:26,123 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/H- Chiwang Terrace 213-233/221.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:26,135 - __main__ - INFO - Processed 29400 files, 2 changed
+2025-08-16 13:38:26,212 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/J- Chizhang Wall(2)276-284/284.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:26,265 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/J- Chizhang Wall(4)296-316/314.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:26,269 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/J- Chizhang Wall(5)317-336/317.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:26,283 - __main__ - INFO - Processed 29500 files, 2 changed
+2025-08-16 13:38:26,296 - __main__ - ERROR - Invalid JSON in ./4.0 series/4.4 chengyu VALE/4.4 Chenyu Vale - full series/J- Chizhang Wall(5)317-336/335.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:38:26,428 - __main__ - INFO - Processed 29600 files, 2 changed
+2025-08-16 13:38:26,562 - __main__ - INFO - Processed 29700 files, 2 changed
+2025-08-16 13:38:26,696 - __main__ - INFO - Processed 29800 files, 2 changed
+2025-08-16 13:38:26,837 - __main__ - INFO - Processed 29900 files, 2 changed
+2025-08-16 13:38:26,968 - __main__ - INFO - Processed 30000 files, 2 changed
+2025-08-16 13:38:26,969 - __main__ - INFO - Processed 30000 files (26.06% complete)
+2025-08-16 13:38:27,101 - __main__ - INFO - Processed 30100 files, 2 changed
+2025-08-16 13:38:27,236 - __main__ - INFO - Processed 30200 files, 2 changed
+2025-08-16 13:38:27,374 - __main__ - INFO - Processed 30300 files, 2 changed
+2025-08-16 13:38:27,527 - __main__ - INFO - Processed 30400 files, 2 changed
+2025-08-16 13:38:27,677 - __main__ - INFO - Processed 30500 files, 2 changed
+2025-08-16 13:38:27,840 - __main__ - INFO - Processed 30600 files, 2 changed
+2025-08-16 13:38:28,065 - __main__ - INFO - Processed 30700 files, 4 changed
+2025-08-16 13:38:28,284 - __main__ - INFO - Processed 30800 files, 4 changed
+2025-08-16 13:38:28,541 - __main__ - INFO - Processed 30900 files, 6 changed
+2025-08-16 13:38:28,768 - __main__ - INFO - Processed 31000 files, 6 changed
+2025-08-16 13:38:28,770 - __main__ - INFO - Processed 31000 files (26.93% complete)
+2025-08-16 13:38:29,006 - __main__ - INFO - Processed 31100 files, 9 changed
+2025-08-16 13:38:29,242 - __main__ - INFO - Processed 31200 files, 9 changed
+2025-08-16 13:38:29,463 - __main__ - INFO - Processed 31300 files, 9 changed
+2025-08-16 13:38:29,666 - __main__ - INFO - Processed 31400 files, 9 changed
+2025-08-16 13:38:29,880 - __main__ - INFO - Processed 31500 files, 10 changed
+2025-08-16 13:38:30,082 - __main__ - INFO - Processed 31600 files, 10 changed
+2025-08-16 13:38:30,294 - __main__ - INFO - Processed 31700 files, 13 changed
+2025-08-16 13:38:30,504 - __main__ - INFO - Processed 31800 files, 13 changed
+2025-08-16 13:38:30,741 - __main__ - INFO - Processed 31900 files, 13 changed
+2025-08-16 13:38:30,952 - __main__ - INFO - Processed 32000 files, 13 changed
+2025-08-16 13:38:30,955 - __main__ - INFO - Processed 32000 files (27.80% complete)
+2025-08-16 13:38:31,169 - __main__ - INFO - Processed 32100 files, 13 changed
+2025-08-16 13:38:31,382 - __main__ - INFO - Processed 32200 files, 13 changed
+2025-08-16 13:38:31,595 - __main__ - INFO - Processed 32300 files, 13 changed
+2025-08-16 13:38:31,805 - __main__ - INFO - Processed 32400 files, 13 changed
+2025-08-16 13:38:32,017 - __main__ - INFO - Processed 32500 files, 14 changed
+2025-08-16 13:38:32,226 - __main__ - INFO - Processed 32600 files, 14 changed
+2025-08-16 13:38:32,439 - __main__ - INFO - Processed 32700 files, 14 changed
+2025-08-16 13:38:32,655 - __main__ - INFO - Processed 32800 files, 14 changed
+2025-08-16 13:38:32,868 - __main__ - INFO - Processed 32900 files, 14 changed
+2025-08-16 13:38:33,082 - __main__ - INFO - Processed 33000 files, 14 changed
+2025-08-16 13:38:33,084 - __main__ - INFO - Processed 33000 files (28.67% complete)
+2025-08-16 13:38:33,310 - __main__ - INFO - Processed 33100 files, 14 changed
+2025-08-16 13:38:33,525 - __main__ - INFO - Processed 33200 files, 14 changed
+2025-08-16 13:38:33,742 - __main__ - INFO - Processed 33300 files, 14 changed
+2025-08-16 13:38:33,957 - __main__ - INFO - Processed 33400 files, 14 changed
+2025-08-16 13:38:34,174 - __main__ - INFO - Processed 33500 files, 14 changed
+2025-08-16 13:38:34,407 - __main__ - INFO - Processed 33600 files, 14 changed
+2025-08-16 13:38:34,626 - __main__ - INFO - Processed 33700 files, 14 changed
+2025-08-16 13:38:34,845 - __main__ - INFO - Processed 33800 files, 14 changed
+2025-08-16 13:38:35,065 - __main__ - INFO - Processed 33900 files, 14 changed
+2025-08-16 13:38:35,285 - __main__ - INFO - Processed 34000 files, 14 changed
+2025-08-16 13:38:35,288 - __main__ - INFO - Processed 34000 files (29.54% complete)
+2025-08-16 13:38:35,509 - __main__ - INFO - Processed 34100 files, 14 changed
+2025-08-16 13:38:35,728 - __main__ - INFO - Processed 34200 files, 14 changed
+2025-08-16 13:38:35,947 - __main__ - INFO - Processed 34300 files, 14 changed
+2025-08-16 13:38:36,173 - __main__ - INFO - Processed 34400 files, 14 changed
+2025-08-16 13:38:36,395 - __main__ - INFO - Processed 34500 files, 14 changed
