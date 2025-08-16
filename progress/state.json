@@ -1,11 +1,11 @@
 {
   "total_files": 115111,
-  "processed_files": 80578,
-  "next_commit_threshold_percent": 80,
+  "processed_files": 92089,
+  "next_commit_threshold_percent": 90,
   "chunk_size": 11512,
   "branch": "upstream/eng-translate",
   "last_commit_sha": "9d5828e8ddb1f18b7b70d96d8cf64e301e1b57e6",
-  "last_audit_time": "2025-08-16T13:42:39.080690",
+  "last_audit_time": "2025-08-16T13:44:08.801020",
   "project_start_time": "2025-08-16T05:11:38Z",
   "current_session_start": "2025-08-16T05:11:38Z"
 }
