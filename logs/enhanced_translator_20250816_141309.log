@@ -1536,3 +1536,16 @@
 2025-08-16 14:57:07,862 - root - INFO - ✅ Progress committed: 90.1%
 2025-08-16 14:57:10,067 - root - INFO - ✅ Progress committed: 90.1%
 2025-08-16 14:57:12,421 - root - INFO - ✅ Progress committed: 90.1%
+2025-08-16 14:57:14,578 - root - INFO - ✅ Progress committed: 90.1%
+2025-08-16 14:57:14,655 - root - INFO - 📊 Progress: 104000/115085 (90.4%) - Changed: 1525 - Time: 2643.6s
+2025-08-16 14:57:14,791 - root - INFO - 📊 Progress: 105000/115085 (91.2%) - Changed: 1525 - Time: 2643.7s
+2025-08-16 14:57:14,930 - root - INFO - 📊 Progress: 106000/115085 (92.1%) - Changed: 1525 - Time: 2643.9s
+2025-08-16 14:57:15,069 - root - INFO - 📊 Progress: 107000/115085 (93.0%) - Changed: 1525 - Time: 2644.0s
+2025-08-16 14:57:15,205 - root - INFO - 📊 Progress: 108000/115085 (93.8%) - Changed: 1525 - Time: 2644.1s
+2025-08-16 14:57:15,345 - root - INFO - 📊 Progress: 109000/115085 (94.7%) - Changed: 1525 - Time: 2644.3s
+2025-08-16 14:57:15,480 - root - INFO - 📊 Progress: 110000/115085 (95.6%) - Changed: 1525 - Time: 2644.4s
+2025-08-16 14:57:15,618 - root - INFO - 📊 Progress: 111000/115085 (96.5%) - Changed: 1525 - Time: 2644.6s
+2025-08-16 14:57:15,759 - root - INFO - 📊 Progress: 112000/115085 (97.3%) - Changed: 1538 - Time: 2644.7s
+2025-08-16 14:57:15,893 - root - INFO - 📊 Progress: 113000/115085 (98.2%) - Changed: 1538 - Time: 2644.8s
+2025-08-16 14:57:16,030 - root - INFO - 📊 Progress: 114000/115085 (99.1%) - Changed: 1539 - Time: 2645.0s
+2025-08-16 14:57:16,171 - root - INFO - 📊 Progress: 115000/115085 (99.9%) - Changed: 1546 - Time: 2645.1s

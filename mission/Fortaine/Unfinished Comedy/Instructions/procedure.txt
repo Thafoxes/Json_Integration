@@ -1,2 +1,2 @@
 fortaine 4.1 area 100 completion quest last5%
-[TRANSLATED: Go to探照灯接取《Comedy quests》enter underground area，将地下空间的两个隐藏锚点点亮后Exploration度来到99%，将未Complete喜剧Quest做到解锁《梅洛彼得生活场景》然后进入1号仓库，做完Puzzle，拿到一个普通Treasure chest，即可将剩下的1%Exploration补完100%]
+[Untranslated: [TRANSLATED: Go to探照灯接取《Comedy quests》enter underground area，将地下空间的两个隐藏锚点点亮后Exploration度来到99%，将未Complete喜剧Quest做到解锁《梅洛彼得生活场景》然后进入1号仓库，做完Puzzle，拿到一个普通Treasure chest，即可将剩下的1%Exploration补完100%]]
