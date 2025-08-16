@@ -763,3 +763,84 @@
 2025-08-16 14:35:07,887 - root - INFO - ✅ Progress committed: 40.1%
 2025-08-16 14:35:10,136 - root - INFO - ✅ Progress committed: 40.1%
 2025-08-16 14:35:12,513 - root - INFO - ✅ Progress committed: 40.1%
+2025-08-16 14:35:14,690 - root - INFO - ✅ Progress committed: 40.1%
+2025-08-16 14:35:14,842 - root - INFO - 📊 Progress: 47000/115085 (40.8%) - Changed: 1131 - Time: 1323.8s
+2025-08-16 14:35:14,981 - root - INFO - 📊 Progress: 48000/115085 (41.7%) - Changed: 1132 - Time: 1323.9s
+2025-08-16 14:35:15,118 - root - INFO - 📊 Progress: 49000/115085 (42.6%) - Changed: 1132 - Time: 1324.1s
+2025-08-16 14:35:15,254 - root - INFO - 📊 Progress: 50000/115085 (43.4%) - Changed: 1132 - Time: 1324.2s
+2025-08-16 14:35:15,395 - root - INFO - 📊 Progress: 51000/115085 (44.3%) - Changed: 1132 - Time: 1324.3s
+2025-08-16 14:35:15,534 - root - INFO - 📊 Progress: 52000/115085 (45.2%) - Changed: 1133 - Time: 1324.5s
+2025-08-16 14:35:15,539 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补034.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,539 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补035.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,539 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补036.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,539 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补037.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,540 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补038.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,540 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补101.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,540 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补102.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,540 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补149.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,540 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补150.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,540 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补151.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,540 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补152.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,541 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补153.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,541 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补154.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,541 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补155.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,541 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补156.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,541 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补206.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,541 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补207.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,541 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补208.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,541 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补209.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,541 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补210.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,542 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Chests + Seelie + Challenge + mora chests/补211.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,566 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Last Tp/add 207.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,566 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Last Tp/add 208.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,566 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Last Tp/add 209.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,566 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Last Tp/add 210.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,566 - root - ERROR - Error translating Nation type series/Fortaine/4.0 3 area Series/Last Tp/add 211.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,580 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Belleau Region/Collection/补034.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,580 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Belleau Region/Collection/补035.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,580 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Belleau Region/Collection/补036.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,580 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Belleau Region/Collection/补037.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,580 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Belleau Region/Collection/补038.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,583 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Belleau Region/Mora Chests/补034.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,583 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Belleau Region/Mora Chests/补035.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,583 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Belleau Region/Mora Chests/补036.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,583 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Belleau Region/Mora Chests/补037.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,583 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Belleau Region/Mora Chests/补038.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,603 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Collection/补101.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,603 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Collection/补102.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,603 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Collection/补149.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,603 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Collection/补150.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,603 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Collection/补151.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,603 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Collection/补152.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,603 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Collection/补153.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,603 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Collection/补154.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,603 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Collection/补155.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,603 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Collection/补156.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,610 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Mora Chests/补148.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,610 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Mora Chests/补149.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,610 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Mora Chests/补150.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,610 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Mora Chests/补151.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,610 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Mora Chests/补152.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,610 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Mora Chests/补153.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,611 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Mora Chests/补154.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,611 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Mora Chests/补155.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,611 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Mora Chests/补156.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,615 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Puzzle/补101.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,615 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Beryl Region/Puzzle/补102.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,654 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Combine/补206.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,654 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Combine/补207.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,654 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Combine/补208.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,654 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Combine/补209.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,654 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Combine/补210.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,654 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Combine/补211.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,655 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Last to tp/add 207.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,655 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Last to tp/add 208.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,655 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Last to tp/add 209.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,655 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Last to tp/add 210.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,655 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Last to tp/add 211.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,670 - root - INFO - 📊 Progress: 53000/115085 (46.1%) - Changed: 1136 - Time: 1324.6s
+2025-08-16 14:35:15,671 - root - ERROR - Error translating Nation type series/Fortaine/4.0 version-CN/Court of Fontaine Court Region Waterway Hub/Open chests/补206.json: 'utf-8' codec can't decode byte 0xb2 in position 29: invalid start byte
+2025-08-16 14:35:15,805 - root - INFO - 📊 Progress: 54000/115085 (46.9%) - Changed: 1136 - Time: 1324.7s
+2025-08-16 14:35:15,940 - root - INFO - 📊 Progress: 55000/115085 (47.8%) - Changed: 1137 - Time: 1324.9s
+2025-08-16 14:35:16,074 - root - INFO - 📊 Progress: 56000/115085 (48.7%) - Changed: 1139 - Time: 1325.0s
+2025-08-16 14:35:16,209 - root - INFO - 📊 Progress: 57000/115085 (49.5%) - Changed: 1139 - Time: 1325.1s
