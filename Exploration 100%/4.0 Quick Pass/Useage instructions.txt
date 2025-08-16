@@ -1,8 +1,8 @@
 Please do main quest before using custom tp
-[TRANSLATED: 1.请尽量在做完主线的情况下Use本json点位！！！]
-[TRANSLATED: 2.请尽量在做完主线的情况下Use本json点位！！！]
-[TRANSLATED: 3.请尽量在做完主线的情况下Use本json点位！！！]
+[Untranslated: [TRANSLATED: 1.请尽量在做完主线的情况下Use本json点位！！！]]
+[Untranslated: [TRANSLATED: 2.请尽量在做完主线的情况下Use本json点位！！！]]
+[Untranslated: [TRANSLATED: 3.请尽量在做完主线的情况下Use本json点位！！！]]
 
 
-[Untranslated: [TRANSLATED: 时间仓促，出现少许纰漏在所难免，点位打包于：2023.08.18]]
-[TRANSLATED: 本Collection由 持青伞，打包，Collect，制作提供~]
+[Untranslated: [Untranslated: [TRANSLATED: 时间仓促，出现少许纰漏在所难免，点位打包于：2023.08.18]]]
+[Untranslated: [TRANSLATED: 本Collection由 持青伞，打包，Collect，制作提供~]]

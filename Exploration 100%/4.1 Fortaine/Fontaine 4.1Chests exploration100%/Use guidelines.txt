@@ -1,9 +1,9 @@
-[TRANSLATED: 本Collection一共Collect数量为：]
-[TRANSLATED:     Treasure chest：215个]
-[Untranslated: [TRANSLATED:     Seelie：13个]]
-[Untranslated: [TRANSLATED:     Time-limited challenge：28个]]
+[Untranslated: [TRANSLATED: 本Collection一共Collect数量为：]]
+[Untranslated: [TRANSLATED:     Treasure chest：215个]]
+[Untranslated: [Untranslated: [TRANSLATED:     Seelie：13个]]]
+[Untranslated: [Untranslated: [TRANSLATED:     Time-limited challenge：28个]]]
 
-[TRANSLATED: 去掉QuestTreasure chest等，全拿完Exploration度会溢出100%。by chiqingsan]
+[Untranslated: [TRANSLATED: 去掉QuestTreasure chest等，全拿完Exploration度会溢出100%。by chiqingsan]]
 
 
 The total number collected in this collection is:
