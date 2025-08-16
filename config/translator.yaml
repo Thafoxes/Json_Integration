@@ -2,9 +2,9 @@
 # Automated translation with glossary enforcement
 
 # Translation Engine Configuration
-provider: "offline"  # Options: deepl, google, offline
-# For production, set to "deepl" and configure API key in environment:
-# export DEEPL_API_KEY="your-key-here"
+provider: "deepl"  # Options: deepl, google, offline
+# Set your API key in environment: export DEEPL_API_KEY="your-key-here"
+# Falls back to offline mode if API key not available
 
 # API Configuration (when using cloud providers)
 api:

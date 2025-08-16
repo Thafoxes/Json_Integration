@@ -1,0 +1,11 @@
+2025-08-16 13:11:35,108 - __main__ - INFO - Loaded glossary with 279 terms
+2025-08-16 13:11:35,110 - __main__ - INFO - Database initialized
+2025-08-16 13:11:35,110 - __main__ - INFO - Starting translation loop...
+2025-08-16 13:11:35,132 - __main__ - INFO - Total files to process: 115111
+2025-08-16 13:11:35,133 - __main__ - INFO - Processing 1 files starting from index 26755
+2025-08-16 13:11:35,135 - __main__ - INFO - Final Statistics:
+2025-08-16 13:11:35,135 - __main__ - INFO - Files processed: 1
+2025-08-16 13:11:35,135 - __main__ - INFO - Files changed: 0
+2025-08-16 13:11:35,135 - __main__ - INFO - Translations made: 0
+2025-08-16 13:11:35,135 - __main__ - INFO - Glossary applications: 0
+2025-08-16 13:11:35,135 - __main__ - INFO - Errors encountered: 0
