@@ -1552,3 +1552,12 @@
 2025-08-16 17:18:19,075 - INFO - 📊 Progress: 114000/115085 (99.1%) - Changed: 1537 - Time: 452.4s
 2025-08-16 17:18:19,224 - INFO - 📊 Progress: 115000/115085 (99.9%) - Changed: 1544 - Time: 452.6s
 2025-08-16 17:18:19,615 - INFO - ✅ Progress committed: 1544 files
+2025-08-16 17:18:19,994 - INFO - ✅ Progress committed: 1544 files
+2025-08-16 17:18:19,995 - INFO - 🎉 Clean translation completed!
+2025-08-16 17:18:19,995 - INFO - 📊 Final Statistics:
+2025-08-16 17:18:19,995 - INFO -    Files processed: 115085
+2025-08-16 17:18:19,995 - INFO -    Files changed: 1544
+2025-08-16 17:18:19,995 - INFO -    Translations made: 1821
+2025-08-16 17:18:19,995 - INFO -    Glossary applications: 0
+2025-08-16 17:18:19,995 - INFO -    Errors: 278
+2025-08-16 17:18:19,995 - INFO -    Total time: 453.3s
