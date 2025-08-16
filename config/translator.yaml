@@ -1,0 +1,84 @@
+# Genshin Impact Translation Project Configuration
+# Automated translation with glossary enforcement
+
+# Translation Engine Configuration
+provider: "offline"  # Options: deepl, google, offline
+# For production, set to "deepl" and configure API key in environment:
+# export DEEPL_API_KEY="your-key-here"
+
+# API Configuration (when using cloud providers)
+api:
+  deepl:
+    api_key_env: "DEEPL_API_KEY"
+    rate_limit:
+      requests_per_minute: 100
+      chars_per_minute: 500000
+    batch_size: 5000
+    retries: 3
+    backoff_factor: 2.0
+    
+  google:
+    api_key_env: "GOOGLE_TRANSLATE_API_KEY"
+    rate_limit:
+      requests_per_minute: 100
+      chars_per_minute: 100000
+    batch_size: 5000
+    retries: 3
+    backoff_factor: 2.0
+
+# Offline Translation Configuration
+offline:
+  model: "facebook/m2m100_418M"  # Alternative: facebook/nllb-200-distilled-600M
+  device: "cpu"  # Use "cuda" if GPU available
+  batch_size: 16
+  max_length: 512
+
+# Glossary Configuration
+glossary:
+  mode: "placeholder_preprotect"  # Protect known terms before translation
+  enforcement: "post_process"     # Enforce official terms after translation
+  placeholder_format: "[[TERM_{}]]"
+  
+# Text Processing
+processing:
+  chinese_detection_regex: "[\\u4e00-\\u9fff\\u3000-\\u303f\\uff00-\\uffef]"
+  protect_tokens:
+    - "\\{[^}]*\\}"      # JSON placeholders like {something}
+    - "%[sd]"           # Format strings %s, %d
+    - "\\$\\d+"         # Variables like $1, $2
+    - "\\[\\[TERM_\\d+\\]\\]"  # Our own placeholders
+    - "<[^>]*>"         # HTML tags
+    - "\\\\[ntr\"]"     # JSON escape sequences
+    
+# File Processing
+files:
+  json:
+    preserve_formatting: true
+    validate_after_edit: true
+    backup_before_edit: true
+    
+  text:
+    preserve_line_breaks: true
+    skip_code_blocks: true  # For markdown
+    skip_urls: true
+    
+# Quality Assurance
+qa:
+  structural_validation: true
+  glossary_conformance: true
+  unknown_term_detection: true
+  sample_rate: 0.01  # 1% sampling for manual review
+  
+# Performance
+performance:
+  worker_pool_size: 4
+  checkpoint_frequency: 100  # Save progress every N files
+  enable_parallelization: true
+  
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file_pattern: "logs/{date}/{filepath}.log"
+  include_translations: true
+  include_glossary_matches: true
