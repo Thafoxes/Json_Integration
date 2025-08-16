@@ -1,31 +1,44 @@
-[![image](https://user-images.githubusercontent.com/82816129/234908010-50130cef-3b15-4de7-b8fb-493375575cb9.png)](https://github.com/Xcating/Json_Integration#)
+# Json_Integration
+Xcating 's JsonPacks
 
-## [English Version](https://github.com/Xcating/Json_Integration/tree/dev)  
-### 		[<img src="https://user-images.githubusercontent.com/82816129/234908325-97c49424-3f47-4ad0-8bb9-da706146118a.png" alt="image" style="zoom:80%;" />](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)                       
+AGenshinJsonIntegrationForGENSHINPMCAT
 
+## Most of the selected materials come from Sam's warehouse and are automatically generated. Please don't take it for granted if there are empty spots
+--------
+## UpdateLogs
+##### v1: I can't reach
+##### v2: I can't reach it
+##### v3: I can't reach it
+##### v4: I can't reach it
+##### v5: 100% exploration in some areas [+] plant parts [+] everything added [+]
+##### v6: old stone man
+##### v7: I make up the knife
+##### v8: forgot
+##### v9: 100% exploration of new maps in 3.4
+##### v10: quack quack rearranged the structure
+##### v11: Most of the monster's json transmission files have been updated | The source of the unclassified treasure chest file has been changed to the "AXC00#1441" 
+warehouse https://github.com/AXC00/json Thank you very much for this big guy
+##### v12: real v11
+##### v13: water version
+##### v14: Ding Zhen at a glance
+##### v15: ah yes yes yes
+##### v16: My super plug-in
+##### v17:no
+##### v18:wtf
+## Most of the source files come from "https://github.com/Sam5440/Genshin_Impact_Teleport" of "Sam5440#8543"
+## Thanks to "holding green umbrella #6764" for providing part of the json file
+## Thanks to "AXC00#1441" for most of the material json and dog food files
 
----
+Possible items:
 
-## 👤contributors:
-
-> Sam5440 
-> Thafoxes 
-[TRANSLATED: > 持青伞  ]
-> DryIce  
-> AXC00  
-> GodWil  
-> Misuki  
-[TRANSLATED: > 情与宇宇热恋  ]
-[TRANSLATED: > 巡刺  ]
-> Apiny  
-> Group 795208101 Members  
-[TRANSLATED: > 毛子  ]
-> cowan97  
-[TRANSLATED: > 1056308869 个成员  ]
-[TRANSLATED: > 茶亭    ]
-[TRANSLATED: > 缘起  ]
-> Kirito   
-[TRANSLATED: > 柒酱   ]
-[TRANSLATED: > 阿晨  qq1011075673  ]
-
----
+animal
+Time-limited challenge in Thousand Valley Sands
+Holy Relic Dog Food
+treasure chest
+monster
+Exploration 100% (some areas)
+Sundries
+plant
+mineral
+God pupil
+Anchor & Idol
