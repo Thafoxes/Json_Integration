@@ -1,10 +1,10 @@
 {
     "checked": true,
-    "description": "任务宝箱（开图主线宝箱）",
+    "description": "QuestTreasure chest（开图主线Treasure chest）",
     "name": "76",
     "position": [
         1627.732421875,
-        229.75271606445313,
+        229.75271606445312,
         1603.544677734375
     ]
 }
