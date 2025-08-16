@@ -636,3 +636,17 @@
 2025-08-16 17:13:42,311 - INFO - ✅ Progress committed: 486 files
 2025-08-16 17:13:42,691 - INFO - ✅ Progress committed: 486 files
 2025-08-16 17:13:43,070 - INFO - ✅ Progress committed: 486 files
+2025-08-16 17:13:43,452 - INFO - ✅ Progress committed: 486 files
+2025-08-16 17:13:43,502 - INFO - 📊 Progress: 35000/115085 (30.4%) - Changed: 486 - Time: 176.8s
+2025-08-16 17:13:43,636 - INFO - 📊 Progress: 36000/115085 (31.3%) - Changed: 486 - Time: 177.0s
+2025-08-16 17:13:43,773 - INFO - 📊 Progress: 37000/115085 (32.2%) - Changed: 486 - Time: 177.1s
+2025-08-16 17:13:44,013 - INFO - 📊 Progress: 38000/115085 (33.0%) - Changed: 787 - Time: 177.4s
+2025-08-16 17:13:44,149 - INFO - 📊 Progress: 39000/115085 (33.9%) - Changed: 788 - Time: 177.5s
+2025-08-16 17:13:44,177 - ERROR - Error translating text file Exploration 100%/4.1 Fortaine/Fontaine 4.1Chests exploration100%/Achievement Chests/Sit down then turn time to 1700.txt: 'utf-8' codec can't decode byte 0xd0 in position 0: invalid continuation byte
+2025-08-16 17:13:44,311 - INFO - 📊 Progress: 40000/115085 (34.8%) - Changed: 860 - Time: 177.6s
+2025-08-16 17:13:44,459 - INFO - 📊 Progress: 41000/115085 (35.6%) - Changed: 902 - Time: 177.8s
+2025-08-16 17:13:44,675 - INFO - 📊 Progress: 42000/115085 (36.5%) - Changed: 1121 - Time: 178.0s
+2025-08-16 17:13:44,813 - INFO - 📊 Progress: 43000/115085 (37.4%) - Changed: 1125 - Time: 178.2s
+2025-08-16 17:13:44,955 - INFO - 📊 Progress: 44000/115085 (38.2%) - Changed: 1128 - Time: 178.3s
+2025-08-16 17:13:45,091 - INFO - 📊 Progress: 45000/115085 (39.1%) - Changed: 1128 - Time: 178.4s
+2025-08-16 17:13:45,224 - INFO - 📊 Progress: 46000/115085 (40.0%) - Changed: 1128 - Time: 178.6s
