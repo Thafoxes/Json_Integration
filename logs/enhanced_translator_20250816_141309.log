@@ -1041,3 +1041,4 @@
 2025-08-16 14:39:42,538 - root - ERROR - Error translating chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起69.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
 2025-08-16 14:39:42,562 - root - INFO - 📊 Progress: 68000/115085 (59.1%) - Changed: 1517 - Time: 1591.5s
 2025-08-16 14:39:42,705 - root - INFO - 📊 Progress: 69000/115085 (60.0%) - Changed: 1518 - Time: 1591.6s
+2025-08-16 14:39:45,669 - root - INFO - ✅ Progress committed: 60.0%
