@@ -849,3 +849,201 @@
 2025-08-16 13:40:10,269 - __main__ - INFO - Processed 57300 files, 42 changed
 2025-08-16 13:40:10,750 - __main__ - INFO - Processed 57400 files, 42 changed
 2025-08-16 13:40:11,243 - __main__ - INFO - Processed 57500 files, 42 changed
+2025-08-16 13:40:17,843 - __main__ - INFO - Progress committed: 50.0%
+2025-08-16 13:40:18,087 - __main__ - INFO - Processed 57600 files, 42 changed
+2025-08-16 13:40:18,583 - __main__ - INFO - Processed 57700 files, 42 changed
+2025-08-16 13:40:19,069 - __main__ - INFO - Processed 57800 files, 42 changed
+2025-08-16 13:40:19,564 - __main__ - INFO - Processed 57900 files, 42 changed
+2025-08-16 13:40:20,067 - __main__ - INFO - Processed 58000 files, 42 changed
+2025-08-16 13:40:20,072 - __main__ - INFO - Processed 58000 files (50.39% complete)
+2025-08-16 13:40:20,560 - __main__ - INFO - Processed 58100 files, 42 changed
+2025-08-16 13:40:21,056 - __main__ - INFO - Processed 58200 files, 42 changed
+2025-08-16 13:40:21,552 - __main__ - INFO - Processed 58300 files, 42 changed
+2025-08-16 13:40:22,044 - __main__ - INFO - Processed 58400 files, 42 changed
+2025-08-16 13:40:22,538 - __main__ - INFO - Processed 58500 files, 42 changed
+2025-08-16 13:40:23,030 - __main__ - INFO - Processed 58600 files, 42 changed
+2025-08-16 13:40:23,520 - __main__ - INFO - Processed 58700 files, 42 changed
+2025-08-16 13:40:24,023 - __main__ - INFO - Processed 58800 files, 42 changed
+2025-08-16 13:40:24,525 - __main__ - INFO - Processed 58900 files, 42 changed
+2025-08-16 13:40:25,029 - __main__ - INFO - Processed 59000 files, 42 changed
+2025-08-16 13:40:25,034 - __main__ - INFO - Processed 59000 files (51.25% complete)
+2025-08-16 13:40:25,532 - __main__ - INFO - Processed 59100 files, 42 changed
+2025-08-16 13:40:26,029 - __main__ - INFO - Processed 59200 files, 42 changed
+2025-08-16 13:40:26,527 - __main__ - INFO - Processed 59300 files, 42 changed
+2025-08-16 13:40:27,025 - __main__ - INFO - Processed 59400 files, 42 changed
+2025-08-16 13:40:27,542 - __main__ - INFO - Processed 59500 files, 42 changed
+2025-08-16 13:40:28,043 - __main__ - INFO - Processed 59600 files, 42 changed
+2025-08-16 13:40:28,561 - __main__ - INFO - Processed 59700 files, 42 changed
+2025-08-16 13:40:29,064 - __main__ - INFO - Processed 59800 files, 42 changed
+2025-08-16 13:40:29,567 - __main__ - INFO - Processed 59900 files, 42 changed
+2025-08-16 13:40:30,079 - __main__ - INFO - Processed 60000 files, 42 changed
+2025-08-16 13:40:30,084 - __main__ - INFO - Processed 60000 files (52.12% complete)
+2025-08-16 13:40:30,595 - __main__ - INFO - Processed 60100 files, 42 changed
+2025-08-16 13:40:31,102 - __main__ - INFO - Processed 60200 files, 42 changed
+2025-08-16 13:40:31,609 - __main__ - INFO - Processed 60300 files, 42 changed
+2025-08-16 13:40:32,115 - __main__ - INFO - Processed 60400 files, 42 changed
+2025-08-16 13:40:32,623 - __main__ - INFO - Processed 60500 files, 42 changed
+2025-08-16 13:40:33,150 - __main__ - INFO - Processed 60600 files, 42 changed
+2025-08-16 13:40:33,660 - __main__ - INFO - Processed 60700 files, 42 changed
+2025-08-16 13:40:34,172 - __main__ - INFO - Processed 60800 files, 42 changed
+2025-08-16 13:40:34,692 - __main__ - INFO - Processed 60900 files, 42 changed
+2025-08-16 13:40:35,219 - __main__ - INFO - Processed 61000 files, 42 changed
+2025-08-16 13:40:35,224 - __main__ - INFO - Processed 61000 files (52.99% complete)
+2025-08-16 13:40:35,740 - __main__ - INFO - Processed 61100 files, 42 changed
+2025-08-16 13:40:36,252 - __main__ - INFO - Processed 61200 files, 42 changed
+2025-08-16 13:40:36,768 - __main__ - INFO - Processed 61300 files, 42 changed
+2025-08-16 13:40:37,284 - __main__ - INFO - Processed 61400 files, 42 changed
+2025-08-16 13:40:37,800 - __main__ - INFO - Processed 61500 files, 42 changed
+2025-08-16 13:40:38,328 - __main__ - INFO - Processed 61600 files, 42 changed
+2025-08-16 13:40:38,853 - __main__ - INFO - Processed 61700 files, 42 changed
+2025-08-16 13:40:39,371 - __main__ - INFO - Processed 61800 files, 42 changed
+2025-08-16 13:40:39,896 - __main__ - INFO - Processed 61900 files, 42 changed
+2025-08-16 13:40:40,424 - __main__ - INFO - Processed 62000 files, 42 changed
+2025-08-16 13:40:40,429 - __main__ - INFO - Processed 62000 files (53.86% complete)
+2025-08-16 13:40:40,949 - __main__ - INFO - Processed 62100 files, 42 changed
+2025-08-16 13:40:41,483 - __main__ - INFO - Processed 62200 files, 42 changed
+2025-08-16 13:40:42,007 - __main__ - INFO - Processed 62300 files, 42 changed
+2025-08-16 13:40:42,548 - __main__ - INFO - Processed 62400 files, 42 changed
+2025-08-16 13:40:43,079 - __main__ - INFO - Processed 62500 files, 42 changed
+2025-08-16 13:40:43,605 - __main__ - INFO - Processed 62600 files, 42 changed
+2025-08-16 13:40:44,138 - __main__ - INFO - Processed 62700 files, 42 changed
+2025-08-16 13:40:44,666 - __main__ - INFO - Processed 62800 files, 42 changed
+2025-08-16 13:40:45,195 - __main__ - INFO - Processed 62900 files, 42 changed
+2025-08-16 13:40:45,724 - __main__ - INFO - Processed 63000 files, 42 changed
+2025-08-16 13:40:45,730 - __main__ - INFO - Processed 63000 files (54.73% complete)
+2025-08-16 13:40:46,253 - __main__ - INFO - Processed 63100 files, 42 changed
+2025-08-16 13:40:46,791 - __main__ - INFO - Processed 63200 files, 42 changed
+2025-08-16 13:40:47,329 - __main__ - INFO - Processed 63300 files, 42 changed
+2025-08-16 13:40:47,868 - __main__ - INFO - Processed 63400 files, 42 changed
+2025-08-16 13:40:48,403 - __main__ - INFO - Processed 63500 files, 42 changed
+2025-08-16 13:40:48,936 - __main__ - INFO - Processed 63600 files, 42 changed
+2025-08-16 13:40:49,479 - __main__ - INFO - Processed 63700 files, 42 changed
+2025-08-16 13:40:50,021 - __main__ - INFO - Processed 63800 files, 42 changed
+2025-08-16 13:40:50,559 - __main__ - INFO - Processed 63900 files, 42 changed
+2025-08-16 13:40:51,097 - __main__ - INFO - Processed 64000 files, 42 changed
+2025-08-16 13:40:51,103 - __main__ - INFO - Processed 64000 files (55.60% complete)
+2025-08-16 13:40:51,639 - __main__ - INFO - Processed 64100 files, 42 changed
+2025-08-16 13:40:52,178 - __main__ - INFO - Processed 64200 files, 42 changed
+2025-08-16 13:40:52,723 - __main__ - INFO - Processed 64300 files, 42 changed
+2025-08-16 13:40:53,271 - __main__ - INFO - Processed 64400 files, 42 changed
+2025-08-16 13:40:53,818 - __main__ - INFO - Processed 64500 files, 42 changed
+2025-08-16 13:40:54,362 - __main__ - INFO - Processed 64600 files, 42 changed
+2025-08-16 13:40:54,912 - __main__ - INFO - Processed 64700 files, 42 changed
+2025-08-16 13:40:55,464 - __main__ - INFO - Processed 64800 files, 42 changed
+2025-08-16 13:40:56,008 - __main__ - INFO - Processed 64900 files, 42 changed
+2025-08-16 13:40:56,554 - __main__ - INFO - Processed 65000 files, 42 changed
+2025-08-16 13:40:56,560 - __main__ - INFO - Processed 65000 files (56.47% complete)
+2025-08-16 13:40:57,110 - __main__ - INFO - Processed 65100 files, 42 changed
+2025-08-16 13:40:57,664 - __main__ - INFO - Processed 65200 files, 42 changed
+2025-08-16 13:40:58,213 - __main__ - INFO - Processed 65300 files, 42 changed
+2025-08-16 13:40:58,784 - __main__ - INFO - Processed 65400 files, 42 changed
+2025-08-16 13:40:59,337 - __main__ - INFO - Processed 65500 files, 42 changed
+2025-08-16 13:40:59,887 - __main__ - INFO - Processed 65600 files, 42 changed
+2025-08-16 13:41:00,439 - __main__ - INFO - Processed 65700 files, 42 changed
+2025-08-16 13:41:00,992 - __main__ - INFO - Processed 65800 files, 42 changed
+2025-08-16 13:41:01,546 - __main__ - INFO - Processed 65900 files, 42 changed
+2025-08-16 13:41:02,108 - __main__ - INFO - Processed 66000 files, 42 changed
+2025-08-16 13:41:02,114 - __main__ - INFO - Processed 66000 files (57.34% complete)
+2025-08-16 13:41:02,666 - __main__ - INFO - Processed 66100 files, 42 changed
+2025-08-16 13:41:03,221 - __main__ - INFO - Processed 66200 files, 42 changed
+2025-08-16 13:41:03,257 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/A - Teatree Slope(2)11-25/Y2.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:03,298 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/A- Teatree Slope (3)/32.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:03,473 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/B- Yaodie Valley(1)/62.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:03,491 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/B- Yaodie Valley(2)63-78/65.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:03,503 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/B- Yaodie Valley(2)63-78/67.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:03,532 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/B- Yaodie Valley(2)63-78/72(1).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:03,539 - __main__ - ERROR - Error translating ./chests/4.4 Chenyu Vale - full series/B- Yaodie Valley(2)63-78/72(2).json: 'utf-8' codec can't decode byte 0xd5 in position 44: invalid continuation byte
+2025-08-16 13:41:03,580 - __main__ - ERROR - Error translating text file ./chests/4.4 Chenyu Vale - full series/B- Yaodie Valley(2)63-78/读我.txt: 'utf-8' codec can't decode byte 0xcf in position 45: invalid continuation byte
+2025-08-16 13:41:03,689 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/C- Qiaoying Village(2)89-98 Achievement 97/94(1).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:03,701 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/C- Qiaoying Village(2)89-98 Achievement 97/95.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:03,745 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/C- Qiaoying Village(3)99-115/101(2).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:03,811 - __main__ - INFO - Processed 66300 files, 42 changed
+2025-08-16 13:41:04,127 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/F- Yilong Wharf(1)151-162/161(2).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:04,251 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/G- Mt. Mingyuan(1)177-195/179(1).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:04,338 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/G- Mt. Mingyuan(1)177-195/193-195.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:04,385 - __main__ - INFO - Processed 66400 files, 42 changed
+2025-08-16 13:41:04,416 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/G- Mt. Mingyuan(2)196-212/208(1).json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:04,497 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/H- Chiwang Terrace 213-233/221.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:04,846 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/J- Chizhang Wall(2)276-284/284.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:04,961 - __main__ - INFO - Processed 66500 files, 42 changed
+2025-08-16 13:41:05,053 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/J- Chizhang Wall(4)296-316/314.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:05,072 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/J- Chizhang Wall(5)317-336/317.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:05,191 - __main__ - ERROR - Invalid JSON in ./chests/4.4 Chenyu Vale - full series/J- Chizhang Wall(5)317-336/335.json: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-08-16 13:41:05,536 - __main__ - INFO - Processed 66600 files, 42 changed
+2025-08-16 13:41:06,099 - __main__ - INFO - Processed 66700 files, 43 changed
+2025-08-16 13:41:06,675 - __main__ - INFO - Processed 66800 files, 44 changed
+2025-08-16 13:41:07,240 - __main__ - INFO - Processed 66900 files, 44 changed
+2025-08-16 13:41:07,800 - __main__ - INFO - Processed 67000 files, 44 changed
+2025-08-16 13:41:07,807 - __main__ - INFO - Processed 67000 files (58.20% complete)
+2025-08-16 13:41:08,369 - __main__ - INFO - Processed 67100 files, 44 changed
+2025-08-16 13:41:08,936 - __main__ - INFO - Processed 67200 files, 44 changed
+2025-08-16 13:41:09,511 - __main__ - INFO - Processed 67300 files, 44 changed
+2025-08-16 13:41:10,085 - __main__ - INFO - Processed 67400 files, 44 changed
+2025-08-16 13:41:10,655 - __main__ - INFO - Processed 67500 files, 44 changed
+2025-08-16 13:41:11,228 - __main__ - INFO - Processed 67600 files, 44 changed
+2025-08-16 13:41:11,796 - __main__ - INFO - Processed 67700 files, 44 changed
+2025-08-16 13:41:12,371 - __main__ - INFO - Processed 67800 files, 44 changed
+2025-08-16 13:41:12,405 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起13.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,412 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起15.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,418 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起16.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,425 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起17.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,431 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起18.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,438 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起19.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,444 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起20.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,450 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起21.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,457 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起22.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,464 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起23.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,471 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起24.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,477 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起25.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,484 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起26.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,490 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起27.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,496 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起28.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,503 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起29.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,509 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起30.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,515 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起31.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,521 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起32.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,528 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起33.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,534 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起34.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,540 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起35.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,546 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起36.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,553 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起37.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,560 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起38.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,567 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起40.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,573 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起41.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,579 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起42.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,585 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起43.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,592 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起45.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,599 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起46.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,606 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起50.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,612 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起51.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,619 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起52.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,626 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起53.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,632 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起54.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,639 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起55.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,645 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起56.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,651 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起57.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,658 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起58.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,665 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起59.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,671 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起60.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,678 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起61.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,685 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起62.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,691 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起63.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,698 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起64.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,705 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起65.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,712 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起66.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,719 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起68.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,725 - __main__ - ERROR - Error translating ./chests/Enkanomiya/DayTime Exposed+Minor decryption/缘起69.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:41:12,996 - __main__ - INFO - Processed 67900 files, 44 changed
+2025-08-16 13:41:13,573 - __main__ - INFO - Processed 68000 files, 44 changed
+2025-08-16 13:41:13,579 - __main__ - INFO - Processed 68000 files (59.07% complete)
+2025-08-16 13:41:14,166 - __main__ - INFO - Processed 68100 files, 44 changed
+2025-08-16 13:41:14,756 - __main__ - INFO - Processed 68200 files, 44 changed
+2025-08-16 13:41:15,327 - __main__ - INFO - Processed 68300 files, 44 changed
+2025-08-16 13:41:15,906 - __main__ - INFO - Processed 68400 files, 44 changed
+2025-08-16 13:41:16,491 - __main__ - INFO - Processed 68500 files, 44 changed
+2025-08-16 13:41:17,067 - __main__ - INFO - Processed 68600 files, 44 changed
+2025-08-16 13:41:17,642 - __main__ - INFO - Processed 68700 files, 44 changed
+2025-08-16 13:41:18,226 - __main__ - INFO - Processed 68800 files, 44 changed
+2025-08-16 13:41:18,804 - __main__ - INFO - Processed 68900 files, 44 changed
+2025-08-16 13:41:19,392 - __main__ - INFO - Processed 69000 files, 45 changed
+2025-08-16 13:41:19,398 - __main__ - INFO - Processed 69000 files (59.94% complete)
