@@ -1,0 +1,6 @@
+2025-08-16 17:10:45,197 - INFO - Loaded glossary with 279 terms
+2025-08-16 17:10:45,203 - INFO - ✅ Google Translate configured
+2025-08-16 17:10:45,203 - INFO - 📋 Available providers: google, offline
+2025-08-16 17:10:45,205 - INFO - Database initialized
+2025-08-16 17:10:46,661 - INFO - 🚀 Starting clean translation of 115085 files
+2025-08-16 17:10:46,661 - INFO - 📋 Available providers: google, offline
