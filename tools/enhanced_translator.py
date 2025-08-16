@@ -7,6 +7,7 @@ Supports multiple translation providers with intelligent fallbacks
 import json
 import logging
 import os
+import random
 import re
 import sqlite3
 import subprocess
@@ -613,12 +614,17 @@ class EnhancedGenshinTranslator:
             # Add all changes
             subprocess.run(['git', 'add', '.'], check=True)
             
-            # Create detailed commit message
-            commit_msg = (f"Enhanced Translation Progress: {progress_pct:.1f}% - "
-                         f"Processed {self.stats['processed']} files, "
-                         f"{self.stats['changed']} changed, "
-                         f"{self.stats['translations']} translations, "
-                         f"{self.stats['glossary_applications']} glossary terms applied")
+            # Create simplified, Genshin Impact-themed commit message
+            themes = [
+                "Teyvat Chronicles Update",
+                "Translation Progress - Adventure continues",
+                "Waypoint Activated - Localization sync",
+                "Commission Complete - Text updated",
+                "Traveler's Notes - Translations refreshed",
+                "Adventurer's Guild Dispatch - Language update",
+                "Knights of Favonius Report - Localization patch"
+            ]
+            commit_msg = random.choice(themes)
             
             # Commit
             subprocess.run(['git', 'commit', '-m', commit_msg], check=True)
