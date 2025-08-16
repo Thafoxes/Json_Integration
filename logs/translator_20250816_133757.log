@@ -129,3 +129,181 @@
 2025-08-16 13:38:01,250 - __main__ - INFO - Processed 11300 files, 0 changed
 2025-08-16 13:38:01,309 - __main__ - INFO - Processed 11400 files, 0 changed
 2025-08-16 13:38:01,367 - __main__ - INFO - Processed 11500 files, 0 changed
+2025-08-16 13:38:05,298 - __main__ - INFO - Progress committed: 10.0%
+2025-08-16 13:38:05,373 - __main__ - INFO - Processed 11600 files, 0 changed
+2025-08-16 13:38:05,430 - __main__ - INFO - Processed 11700 files, 0 changed
+2025-08-16 13:38:05,488 - __main__ - INFO - Processed 11800 files, 0 changed
+2025-08-16 13:38:05,545 - __main__ - INFO - Processed 11900 files, 0 changed
+2025-08-16 13:38:05,602 - __main__ - INFO - Processed 12000 files, 0 changed
+2025-08-16 13:38:05,602 - __main__ - INFO - Processed 12000 files (10.43% complete)
+2025-08-16 13:38:05,660 - __main__ - INFO - Processed 12100 files, 0 changed
+2025-08-16 13:38:05,718 - __main__ - INFO - Processed 12200 files, 0 changed
+2025-08-16 13:38:05,777 - __main__ - INFO - Processed 12300 files, 0 changed
+2025-08-16 13:38:05,835 - __main__ - INFO - Processed 12400 files, 0 changed
+2025-08-16 13:38:05,895 - __main__ - INFO - Processed 12500 files, 0 changed
+2025-08-16 13:38:05,954 - __main__ - INFO - Processed 12600 files, 0 changed
+2025-08-16 13:38:06,014 - __main__ - INFO - Processed 12700 files, 0 changed
+2025-08-16 13:38:06,079 - __main__ - INFO - Processed 12800 files, 0 changed
+2025-08-16 13:38:06,144 - __main__ - INFO - Processed 12900 files, 0 changed
+2025-08-16 13:38:06,209 - __main__ - INFO - Processed 13000 files, 0 changed
+2025-08-16 13:38:06,210 - __main__ - INFO - Processed 13000 files (11.30% complete)
+2025-08-16 13:38:06,275 - __main__ - INFO - Processed 13100 files, 0 changed
+2025-08-16 13:38:06,341 - __main__ - INFO - Processed 13200 files, 0 changed
+2025-08-16 13:38:06,409 - __main__ - INFO - Processed 13300 files, 0 changed
+2025-08-16 13:38:06,477 - __main__ - INFO - Processed 13400 files, 0 changed
+2025-08-16 13:38:06,545 - __main__ - INFO - Processed 13500 files, 0 changed
+2025-08-16 13:38:06,613 - __main__ - INFO - Processed 13600 files, 0 changed
+2025-08-16 13:38:06,681 - __main__ - INFO - Processed 13700 files, 0 changed
+2025-08-16 13:38:06,750 - __main__ - INFO - Processed 13800 files, 0 changed
+2025-08-16 13:38:06,817 - __main__ - INFO - Processed 13900 files, 0 changed
+2025-08-16 13:38:06,889 - __main__ - INFO - Processed 14000 files, 0 changed
+2025-08-16 13:38:06,890 - __main__ - INFO - Processed 14000 files (12.16% complete)
+2025-08-16 13:38:06,959 - __main__ - INFO - Processed 14100 files, 0 changed
+2025-08-16 13:38:07,029 - __main__ - INFO - Processed 14200 files, 0 changed
+2025-08-16 13:38:07,098 - __main__ - INFO - Processed 14300 files, 0 changed
+2025-08-16 13:38:07,169 - __main__ - INFO - Processed 14400 files, 0 changed
+2025-08-16 13:38:07,239 - __main__ - INFO - Processed 14500 files, 0 changed
+2025-08-16 13:38:07,309 - __main__ - INFO - Processed 14600 files, 0 changed
+2025-08-16 13:38:07,380 - __main__ - INFO - Processed 14700 files, 0 changed
+2025-08-16 13:38:07,451 - __main__ - INFO - Processed 14800 files, 0 changed
+2025-08-16 13:38:07,523 - __main__ - INFO - Processed 14900 files, 0 changed
+2025-08-16 13:38:07,596 - __main__ - INFO - Processed 15000 files, 0 changed
+2025-08-16 13:38:07,597 - __main__ - INFO - Processed 15000 files (13.03% complete)
+2025-08-16 13:38:07,605 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起13.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,606 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起15.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,607 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起16.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,608 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起17.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,609 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起18.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,609 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起19.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,610 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起20.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,611 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起21.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,612 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起22.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,612 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起23.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,613 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起24.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,614 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起25.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,615 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起26.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,615 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起27.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,616 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起28.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,617 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起29.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,618 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起30.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,618 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起31.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,619 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起32.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,620 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起33.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,621 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起34.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,621 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起35.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,622 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起36.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,623 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起37.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,623 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起38.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,624 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起40.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,625 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起41.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,626 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起42.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,627 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起43.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,628 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起45.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,628 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起46.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,629 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起50.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,630 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起51.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,631 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起52.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,631 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起53.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,632 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起54.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,633 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起55.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,634 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起56.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,634 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起57.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,635 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起58.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,636 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起59.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,636 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起60.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,637 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起61.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,638 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起62.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,639 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起63.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,640 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起64.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,640 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起65.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,641 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起66.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,642 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起68.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,643 - __main__ - ERROR - Error translating ./3.0 Auto Farming AFK series/All Map Open chests/Inazuma/8Enkanomiya/Daytime expose + small amount of puzzles/缘起69.json: 'utf-8' codec can't decode byte 0xc6 in position 31: invalid continuation byte
+2025-08-16 13:38:07,671 - __main__ - INFO - Processed 15100 files, 0 changed
+2025-08-16 13:38:07,740 - __main__ - INFO - Processed 15200 files, 0 changed
+2025-08-16 13:38:07,810 - __main__ - INFO - Processed 15300 files, 0 changed
+2025-08-16 13:38:07,881 - __main__ - INFO - Processed 15400 files, 0 changed
+2025-08-16 13:38:07,951 - __main__ - INFO - Processed 15500 files, 0 changed
+2025-08-16 13:38:08,022 - __main__ - INFO - Processed 15600 files, 0 changed
+2025-08-16 13:38:08,093 - __main__ - INFO - Processed 15700 files, 0 changed
+2025-08-16 13:38:08,166 - __main__ - INFO - Processed 15800 files, 0 changed
+2025-08-16 13:38:08,238 - __main__ - INFO - Processed 15900 files, 0 changed
+2025-08-16 13:38:08,312 - __main__ - INFO - Processed 16000 files, 0 changed
+2025-08-16 13:38:08,312 - __main__ - INFO - Processed 16000 files (13.90% complete)
+2025-08-16 13:38:08,385 - __main__ - INFO - Processed 16100 files, 0 changed
+2025-08-16 13:38:08,458 - __main__ - INFO - Processed 16200 files, 0 changed
+2025-08-16 13:38:08,532 - __main__ - INFO - Processed 16300 files, 0 changed
+2025-08-16 13:38:08,605 - __main__ - INFO - Processed 16400 files, 0 changed
+2025-08-16 13:38:08,682 - __main__ - INFO - Processed 16500 files, 0 changed
+2025-08-16 13:38:08,759 - __main__ - INFO - Processed 16600 files, 0 changed
+2025-08-16 13:38:08,838 - __main__ - INFO - Processed 16700 files, 0 changed
+2025-08-16 13:38:08,916 - __main__ - INFO - Processed 16800 files, 0 changed
+2025-08-16 13:38:08,993 - __main__ - INFO - Processed 16900 files, 0 changed
+2025-08-16 13:38:09,070 - __main__ - INFO - Processed 17000 files, 0 changed
+2025-08-16 13:38:09,071 - __main__ - INFO - Processed 17000 files (14.77% complete)
+2025-08-16 13:38:09,148 - __main__ - INFO - Processed 17100 files, 0 changed
+2025-08-16 13:38:09,225 - __main__ - INFO - Processed 17200 files, 0 changed
+2025-08-16 13:38:09,303 - __main__ - INFO - Processed 17300 files, 0 changed
+2025-08-16 13:38:09,383 - __main__ - INFO - Processed 17400 files, 0 changed
+2025-08-16 13:38:09,465 - __main__ - INFO - Processed 17500 files, 0 changed
+2025-08-16 13:38:09,544 - __main__ - INFO - Processed 17600 files, 0 changed
+2025-08-16 13:38:09,625 - __main__ - INFO - Processed 17700 files, 0 changed
+2025-08-16 13:38:09,709 - __main__ - INFO - Processed 17800 files, 0 changed
+2025-08-16 13:38:09,794 - __main__ - INFO - Processed 17900 files, 0 changed
+2025-08-16 13:38:09,883 - __main__ - INFO - Processed 18000 files, 0 changed
+2025-08-16 13:38:09,883 - __main__ - INFO - Processed 18000 files (15.64% complete)
+2025-08-16 13:38:09,967 - __main__ - INFO - Processed 18100 files, 0 changed
+2025-08-16 13:38:10,050 - __main__ - INFO - Processed 18200 files, 0 changed
+2025-08-16 13:38:10,132 - __main__ - INFO - Processed 18300 files, 0 changed
+2025-08-16 13:38:10,215 - __main__ - INFO - Processed 18400 files, 0 changed
+2025-08-16 13:38:10,299 - __main__ - INFO - Processed 18500 files, 0 changed
+2025-08-16 13:38:10,382 - __main__ - INFO - Processed 18600 files, 0 changed
+2025-08-16 13:38:10,469 - __main__ - INFO - Processed 18700 files, 0 changed
+2025-08-16 13:38:10,557 - __main__ - INFO - Processed 18800 files, 0 changed
+2025-08-16 13:38:10,643 - __main__ - INFO - Processed 18900 files, 0 changed
+2025-08-16 13:38:10,728 - __main__ - INFO - Processed 19000 files, 0 changed
+2025-08-16 13:38:10,729 - __main__ - INFO - Processed 19000 files (16.51% complete)
+2025-08-16 13:38:10,816 - __main__ - INFO - Processed 19100 files, 0 changed
+2025-08-16 13:38:10,903 - __main__ - INFO - Processed 19200 files, 0 changed
+2025-08-16 13:38:10,989 - __main__ - INFO - Processed 19300 files, 0 changed
+2025-08-16 13:38:11,077 - __main__ - INFO - Processed 19400 files, 0 changed
+2025-08-16 13:38:11,176 - __main__ - INFO - Processed 19500 files, 0 changed
+2025-08-16 13:38:11,270 - __main__ - INFO - Processed 19600 files, 0 changed
+2025-08-16 13:38:11,357 - __main__ - INFO - Processed 19700 files, 0 changed
+2025-08-16 13:38:11,445 - __main__ - INFO - Processed 19800 files, 0 changed
+2025-08-16 13:38:11,533 - __main__ - INFO - Processed 19900 files, 0 changed
+2025-08-16 13:38:11,622 - __main__ - INFO - Processed 20000 files, 0 changed
+2025-08-16 13:38:11,623 - __main__ - INFO - Processed 20000 files (17.38% complete)
+2025-08-16 13:38:11,711 - __main__ - INFO - Processed 20100 files, 0 changed
+2025-08-16 13:38:11,801 - __main__ - INFO - Processed 20200 files, 0 changed
+2025-08-16 13:38:11,897 - __main__ - INFO - Processed 20300 files, 0 changed
+2025-08-16 13:38:11,993 - __main__ - INFO - Processed 20400 files, 0 changed
+2025-08-16 13:38:12,086 - __main__ - INFO - Processed 20500 files, 0 changed
+2025-08-16 13:38:12,176 - __main__ - INFO - Processed 20600 files, 0 changed
+2025-08-16 13:38:12,266 - __main__ - INFO - Processed 20700 files, 0 changed
+2025-08-16 13:38:12,359 - __main__ - INFO - Processed 20800 files, 0 changed
+2025-08-16 13:38:12,455 - __main__ - INFO - Processed 20900 files, 0 changed
+2025-08-16 13:38:12,556 - __main__ - INFO - Processed 21000 files, 0 changed
+2025-08-16 13:38:12,557 - __main__ - INFO - Processed 21000 files (18.24% complete)
+2025-08-16 13:38:12,654 - __main__ - INFO - Processed 21100 files, 0 changed
+2025-08-16 13:38:12,749 - __main__ - INFO - Processed 21200 files, 0 changed
+2025-08-16 13:38:12,841 - __main__ - INFO - Processed 21300 files, 0 changed
+2025-08-16 13:38:12,935 - __main__ - INFO - Processed 21400 files, 0 changed
+2025-08-16 13:38:13,029 - __main__ - INFO - Processed 21500 files, 0 changed
+2025-08-16 13:38:13,133 - __main__ - INFO - Processed 21600 files, 0 changed
+2025-08-16 13:38:13,238 - __main__ - INFO - Processed 21700 files, 0 changed
+2025-08-16 13:38:13,336 - __main__ - INFO - Processed 21800 files, 0 changed
+2025-08-16 13:38:13,434 - __main__ - INFO - Processed 21900 files, 0 changed
+2025-08-16 13:38:13,540 - __main__ - INFO - Processed 22000 files, 0 changed
+2025-08-16 13:38:13,541 - __main__ - INFO - Processed 22000 files (19.11% complete)
+2025-08-16 13:38:13,642 - __main__ - INFO - Processed 22100 files, 0 changed
+2025-08-16 13:38:13,737 - __main__ - INFO - Processed 22200 files, 0 changed
+2025-08-16 13:38:13,836 - __main__ - INFO - Processed 22300 files, 0 changed
+2025-08-16 13:38:13,933 - __main__ - INFO - Processed 22400 files, 0 changed
+2025-08-16 13:38:14,032 - __main__ - INFO - Processed 22500 files, 0 changed
+2025-08-16 13:38:14,129 - __main__ - INFO - Processed 22600 files, 0 changed
+2025-08-16 13:38:14,232 - __main__ - INFO - Processed 22700 files, 0 changed
+2025-08-16 13:38:14,330 - __main__ - INFO - Processed 22800 files, 0 changed
+2025-08-16 13:38:14,427 - __main__ - INFO - Processed 22900 files, 0 changed
+2025-08-16 13:38:14,528 - __main__ - INFO - Processed 23000 files, 0 changed
+2025-08-16 13:38:14,529 - __main__ - INFO - Processed 23000 files (19.98% complete)
